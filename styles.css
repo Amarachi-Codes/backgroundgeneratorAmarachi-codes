@@ -1,0 +1,20 @@
+body{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	background: linear-gradient(to right, red, blue);
+	color: white;
+}
+h1{
+	font-size: 2em;
+	padding: 25px;
+	letter-spacing: .5em;
+	width: 100%;
+}
+
+h2{
+	font-size: 1.3em;
+	padding: 10px;
+	letter-spacing: 0.02em;
+
+}
