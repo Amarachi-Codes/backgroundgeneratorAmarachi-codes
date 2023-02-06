@@ -1,1 +1,1 @@
-# backgroundgeneratorAmarachi-codes
+ This is a Background Generator App made with HTML CSS AND JAVASCRIPT. You can generate different shades of background color wih this app and also copy the Linear-gradient color values. You can also select a random color using the "select a random color button" with this app.
